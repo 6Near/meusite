@@ -1,0 +1,27 @@
+	h1{
+			color: #123;
+			text-align: center;
+			margin-top: 20px;
+			font-family: 'Helvetica';
+			font-size: 4.6em;
+		}
+
+		body{
+			background: #123;
+		}
+
+		#div1{
+			width: 100%;
+			height: 100px;
+			margin-top: 0%;
+			margin-left: -0.5%;
+			background-color: #244;
+			position: relative;
+		}
+
+		#div2{
+			width: 100%;
+			height: 500px;
+			margin-top: 0px;
+			background-color: #ccc;
+		}
